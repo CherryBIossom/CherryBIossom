@@ -1,8 +1,8 @@
 ![terminal](https://github.com/CherryBIossom/CherryBIossom/assets/54832648/5fe85511-0c47-4244-9bc4-3c9f4093af81)
 # Music List
 #### Fall is Falling &nbsp; - &nbsp; DJ Whitesmith
-#### Somewhere in Time - tsunenori a.k.a Marukabis
-#### Traveler Pt.2 - Aosaki
+#### Somewhere in Time &nbsp; - &nbsp; tsunenori a.k.a Marukabis
+#### Traveler Pt.2 &nbsp; - &nbsp; Aosaki
 
 
 
