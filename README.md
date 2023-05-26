@@ -10,7 +10,7 @@
 #### [Kankami &nbsp; - &nbsp; Michita](https://www.youtube.com/watch?v=3b326vPOx5I&ab_channel=MICHITA-Topic)
 #### Long Way Home &nbsp; - &nbsp; Kondor
 #### [Moon Among Trees &nbsp; - &nbsp; Dennis Kuo](https://www.youtube.com/watch?v=j2TIbi7uNGk&ab_channel=DennisKuo-Topic)
-#### Nightbloomong &nbsp; - &nbsp; Ekayim
+#### [Nightbloomong &nbsp; - &nbsp; Ekayim](https://www.youtube.com/watch?v=_eeKGVHbjIs&ab_channel=Ekayim-Topic)
 #### Peace of Soul &nbsp; - &nbsp; Kondor
 #### Rain of Love &nbsp; - &nbsp; Blazo
 #### Somewhere in Time &nbsp; - &nbsp; tsunenori a.k.a Marukabis
