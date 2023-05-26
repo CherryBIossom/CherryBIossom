@@ -5,7 +5,7 @@
 #### [Children of the Earth &nbsp; - &nbsp; Ayur](https://www.youtube.com/watch?v=7PKDiWU2WHY&ab_channel=loveitrabbit)
 #### [Fall is Falling &nbsp; - &nbsp; DJ Whitesmith](https://www.youtube.com/watch?v=wPhKDM-E8K4&ab_channel=suchagreatname)
 #### [Glittering Sea &nbsp; - &nbsp; Re;plus, Yusuke Shima](https://www.youtube.com/watch?v=SJUF-_qM640&ab_channel=re%3Aplus%C3%97YusukeShima-Topic)
-#### Horomai Station &nbsp; - &nbsp; tsunenori a.k.a Marukabis
+#### [Horomai Station &nbsp; - &nbsp; tsunenori a.k.a Marukabis](https://www.youtube.com/watch?v=tbbr49lGrHw&ab_channel=Tsunenori)
 #### Imaginary Kiss &nbsp; - &nbsp; Shirfine
 #### Kankami &nbsp; - &nbsp; Michita
 #### Long Way Home &nbsp; - &nbsp; Kondor
