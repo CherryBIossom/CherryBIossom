@@ -7,7 +7,7 @@
 #### [Glittering Sea &nbsp; - &nbsp; Re;plus, Yusuke Shima](https://www.youtube.com/watch?v=SJUF-_qM640&ab_channel=re%3Aplus%C3%97YusukeShima-Topic)
 #### [Horomai Station &nbsp; - &nbsp; tsunenori a.k.a Marukabis](https://www.youtube.com/watch?v=tbbr49lGrHw&ab_channel=Tsunenori)
 #### [Imaginary Kiss &nbsp; - &nbsp; Shirfine](https://www.youtube.com/watch?v=jRQBXmkLVaY&ab_channel=Shirfine-Topic)
-#### Kankami &nbsp; - &nbsp; Michita
+#### [Kankami &nbsp; - &nbsp; Michita](https://www.youtube.com/watch?v=3b326vPOx5I&ab_channel=MICHITA-Topic)
 #### Long Way Home &nbsp; - &nbsp; Kondor
 #### Moon Among Trees &nbsp; - &nbsp; Dennis Kuo
 #### Nightbloomong &nbsp; - &nbsp; Ekayim
