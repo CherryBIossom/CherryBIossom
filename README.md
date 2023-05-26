@@ -11,7 +11,7 @@
 #### Long Way Home &nbsp; - &nbsp; Kondor
 #### [Moon Among Trees &nbsp; - &nbsp; Dennis Kuo](https://www.youtube.com/watch?v=j2TIbi7uNGk&ab_channel=DennisKuo-Topic)
 #### [Nightbloomong &nbsp; - &nbsp; Ekayim](https://www.youtube.com/watch?v=_eeKGVHbjIs&ab_channel=Ekayim-Topic)
-#### Peace of Soul &nbsp; - &nbsp; Kondor
+#### [Peace of Soul &nbsp; - &nbsp; Kondor](https://www.youtube.com/watch?v=WN3VHkUFuwU&ab_channel=Kondor-Topic)
 #### Rain of Love &nbsp; - &nbsp; Blazo
 #### Somewhere in Time &nbsp; - &nbsp; tsunenori a.k.a Marukabis
 #### Traveler Pt.2 &nbsp; - &nbsp; Aosaki
