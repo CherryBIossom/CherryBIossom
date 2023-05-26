@@ -43,7 +43,7 @@
         <td>
             <img width="68px" height="100px" src="http://image.yes24.com/momo/TopCate1045/MidCate008/104477542.jpg" />
         </td>
-        <td align="center">information  &nbsp; - &nbsp;  James Gleick</td>
+        <td align="center">Information  &nbsp; - &nbsp;  James Gleick</td>
     </tr>
     <tr>
         <td>
