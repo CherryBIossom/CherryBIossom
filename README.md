@@ -9,7 +9,7 @@
 #### [Horomai Station &nbsp; - &nbsp; tsunenori a.k.a Marukabis](https://www.youtube.com/watch?v=tbbr49lGrHw&ab_channel=Tsunenori)
 #### [Imaginary Kiss &nbsp; - &nbsp; Shirfine](https://www.youtube.com/watch?v=jRQBXmkLVaY&ab_channel=Shirfine-Topic)
 #### [Kankami &nbsp; - &nbsp; Michita](https://www.youtube.com/watch?v=3b326vPOx5I&ab_channel=MICHITA-Topic)
-#### Long Way Home &nbsp; - &nbsp; Kondor
+#### [Long Way Home &nbsp; - &nbsp; Kondor](https://kondormusica.bandcamp.com/track/long-way-home)
 #### [Moon Among Trees &nbsp; - &nbsp; Dennis Kuo](https://www.youtube.com/watch?v=j2TIbi7uNGk&ab_channel=DennisKuo-Topic)
 #### [Nightbloomong &nbsp; - &nbsp; Ekayim](https://www.youtube.com/watch?v=_eeKGVHbjIs&ab_channel=Ekayim-Topic)
 #### [Peace of Soul &nbsp; - &nbsp; Kondor](https://www.youtube.com/watch?v=WN3VHkUFuwU&ab_channel=Kondor-Topic)
