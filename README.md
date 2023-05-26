@@ -14,7 +14,7 @@
 #### [Nightbloomong &nbsp; - &nbsp; Ekayim](https://www.youtube.com/watch?v=_eeKGVHbjIs&ab_channel=Ekayim-Topic)
 #### [Peace of Soul &nbsp; - &nbsp; Kondor](https://www.youtube.com/watch?v=WN3VHkUFuwU&ab_channel=Kondor-Topic)
 #### [Rain of Love &nbsp; - &nbsp; Blazo](https://www.youtube.com/watch?v=Cfoj4nEWHEE&ab_channel=RobotYoshimis)
-#### Somewhere in Time &nbsp; - &nbsp; tsunenori a.k.a Marukabis
+#### [Somewhere in Time &nbsp; - &nbsp; tsunenori a.k.a Marukabis](https://soundcloud.com/tsunenori/somewhere-in-time)
 #### [Traveler Pt.2 &nbsp; - &nbsp; Aosaki](https://www.youtube.com/watch?v=SsC-KIog0og&ab_channel=Aosaki-Topic)
 
 
