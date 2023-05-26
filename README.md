@@ -1,6 +1,6 @@
 ![terminal](https://github.com/CherryBIossom/CherryBIossom/assets/54832648/5fe85511-0c47-4244-9bc4-3c9f4093af81)
 # Favorite Music List
-#### Autumn &nbsp; - &nbsp; Elyon Beats
+#### Autumn &nbsp; - &nbsp; Elyon Beats [https://www.youtube.com/watch?v=zR1bwLZXvX8&ab_channel=ElyonBeats-Topic]
 #### Begin &nbsp; - &nbsp; White Rain
 #### Children of the Earth &nbsp; - &nbsp; Ayur
 #### Fall is Falling &nbsp; - &nbsp; DJ Whitesmith
