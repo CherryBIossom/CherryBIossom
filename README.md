@@ -21,6 +21,14 @@
 <br /><br /><br /><br /><br />
 # <img height="60px" src="https://img.shields.io/badge/Interest_Book_List-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" />
 <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
+<table>
+    <tr>
+        <td align="center">아인슈타인의 냉장고 - Paul Sen</td>
+        <td>
+            <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
+        </td>
+    </tr>
+</table> 
 
 #### 아인슈타인의 냉장고 - Paul Sen
 #### 떨림과 울림 - Kim sang wook
