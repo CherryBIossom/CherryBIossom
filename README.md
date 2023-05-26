@@ -25,7 +25,7 @@
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
         </td>
-        <td align="center"><span style="font-size:18px;">아인슈타인의 냉장고 - Paul Sen</span></td>
+        <td align="center"><span style="font-size:18px;">아인슈타인의 냉장고 - Paul Sen</p></td>
     </tr>
     <tr>
         <td>
