@@ -25,7 +25,7 @@
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
         </td>
-        <td align="center"><h3>아인슈타인의 냉장고 &nbsp; - &nbsp; Paul Sen</td>
+        <td align="center"><h3>아인슈타인의 냉장고(2021) &nbsp; - &nbsp; Paul Sen</td>
     </tr>
     <tr>
         <td>
@@ -37,18 +37,18 @@
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/57569808/s" />
         </td>
-        <td align="center"><h3>김상욱의 양자 공부  &nbsp; - &nbsp;  Kim sang wook</td>
+        <td align="center"><h3>김상욱의 양자 공부(2017)  &nbsp; - &nbsp;  Kim sang wook</td>
     </tr>
     <tr>
         <td>
             <img width="68px" height="100px" src="http://image.yes24.com/momo/TopCate1045/MidCate008/104477542.jpg" />
         </td>
-        <td align="center"><h3>Information  &nbsp; - &nbsp;  James Gleick</td>
+        <td align="center"><h3>Information(2011)  &nbsp; - &nbsp;  James Gleick</td>
     </tr>
     <tr>
         <td>
             <img width="68px" height="100px" src="http://image.yes24.com/goods/89230174/s" />
         </td>
-        <td align="center"><h3>저글러, 땜장이, 놀이꾼, 디지털 세상을 설계하다  &nbsp; - &nbsp;  Jimmy Soni, Rob Goodman</td>
+        <td align="center"><h3>저글러, 땜장이, 놀이꾼, 디지털 세상을 설계하다(2020)  &nbsp; - &nbsp;  Jimmy Soni, Rob Goodman</td>
     </tr>
 </table> 
