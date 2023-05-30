@@ -52,3 +52,4 @@
         <td align="center"><h3>저글러, 땜장이, 놀이꾼, 디지털 세상을 설계하다(2020)  &nbsp; - &nbsp;  Jimmy Soni, Rob Goodman</td>
     </tr>
 </table> 
+ 
