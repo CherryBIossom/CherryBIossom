@@ -23,6 +23,12 @@
 <table>
     <tr>
         <td>
+            <img width="68px" height="100px" src="https://image.yes24.com/goods/113791226/XL" />
+        </td>
+        <td align="center"><h3>데일 카네기 인간관계론(2019) &nbsp; - &nbsp; Dale Carnegie</td>
+    </tr>
+    <tr>
+        <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
         </td>
         <td align="center"><h3>아인슈타인의 냉장고(2021) &nbsp; - &nbsp; Paul Sen</td>
