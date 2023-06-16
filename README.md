@@ -24,7 +24,7 @@
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/113791226/XL" />
         </td>
-        <td align="center"><h3>데일 카네기 인간관계론(2019) &nbsp; - &nbsp; Dale Carnegie</td>
+        <td align="center"><h3>~~데일 카네기 인간관계론~~ &nbsp; - &nbsp; ~~Dale Carnegie~~</td>
     </tr>
     <tr>
         <td>
