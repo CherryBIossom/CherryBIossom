@@ -22,12 +22,6 @@
 <table>
     <tr>
         <td>
-            <img width="68px" height="100px" src="https://image.yes24.com/goods/113791226/XL" />
-        </td>
-        <td align="center"><h3>데일 카네기 인간관계론 &nbsp; - &nbsp; Dale Carnegie</td>
-    </tr>
-    <tr>
-        <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
         </td>
         <td align="center"><h3>아인슈타인의 냉장고(2021) &nbsp; - &nbsp; Paul Sen</td>
@@ -55,6 +49,12 @@
             <img width="68px" height="100px" src="http://image.yes24.com/goods/89230174/s" />
         </td>
         <td align="center"><h3>저글러, 땜장이, 놀이꾼, 디지털 세상을 설계하다(2020)  &nbsp; - &nbsp;  Jimmy Soni, Rob Goodman</td>
+    </tr>
+             <tr>
+        <td>
+            <img width="68px" height="100px" src="https://image.yes24.com/goods/113791226/XL" />
+        </td>
+        <td align="center"><h3><del>데일 카네기 인간관계론 &nbsp; - &nbsp; Dale Carnegie</del></td>
     </tr>
 </table> 
  
