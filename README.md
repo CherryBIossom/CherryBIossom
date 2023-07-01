@@ -20,6 +20,12 @@
 <br /><br /><br /><br /><br />
 # <img height="60px" src="https://img.shields.io/badge/Interest_Book_List-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" />
 <table>
+     <tr>
+        <td>
+            <img width="68px" height="100px" src="https://image.yes24.com/goods/7264453/XL" />
+        </td>
+        <td align="center"><h3>그대들, 어떻게 살 것인가 &nbsp; - &nbsp; Genzaburou Yosino</td>
+    </tr>
     <tr>
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
@@ -54,7 +60,7 @@
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/113791226/XL" />
         </td>
-        <td align="center"><h3><del>데일 카네기 인간관계론 &nbsp; - &nbsp; Dale Carnegie</del></td>
+        <td align="center"><h3><del>인간관계론 &nbsp; - &nbsp; Dale Carnegie</del></td>
     </tr>
 </table> 
  
