@@ -1,23 +1,3 @@
-# <img height="60px" src="https://img.shields.io/badge/My_Favorite_Music_List-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" />
-#### [Autumn &nbsp; - &nbsp; Elyon Beats](https://www.youtube.com/watch?v=zR1bwLZXvX8&ab_channel=ElyonBeats-Topic)
-#### [Begin &nbsp; - &nbsp; White Rain](https://www.youtube.com/watch?v=kKpucEMRfbQ&ab_channel=WhiteRain-Topic)
-#### [Children of the Earth &nbsp; - &nbsp; Ayur](https://www.youtube.com/watch?v=7PKDiWU2WHY&ab_channel=loveitrabbit)
-#### [Fall is Falling &nbsp; - &nbsp; DJ Whitesmith](https://www.youtube.com/watch?v=wPhKDM-E8K4&ab_channel=suchagreatname)
-#### [Glittering Sea &nbsp; - &nbsp; Re;plus, Yusuke Shima](https://www.youtube.com/watch?v=SJUF-_qM640&ab_channel=re%3Aplus%C3%97YusukeShima-Topic)
-#### [Horomai Station &nbsp; - &nbsp; tsunenori a.k.a Marukabis](https://www.youtube.com/watch?v=tbbr49lGrHw&ab_channel=Tsunenori)
-#### [Imaginary Kiss &nbsp; - &nbsp; Shirfine](https://www.youtube.com/watch?v=jRQBXmkLVaY&ab_channel=Shirfine-Topic)
-#### [Kankami &nbsp; - &nbsp; Michita](https://www.youtube.com/watch?v=3b326vPOx5I&ab_channel=MICHITA-Topic)
-#### [Long Way Home &nbsp; - &nbsp; Kondor](https://kondormusica.bandcamp.com/track/long-way-home)
-#### [Moon Among Trees &nbsp; - &nbsp; Dennis Kuo](https://www.youtube.com/watch?v=j2TIbi7uNGk&ab_channel=DennisKuo-Topic)
-#### [Nightbloomong &nbsp; - &nbsp; Ekayim](https://www.youtube.com/watch?v=_eeKGVHbjIs&ab_channel=Ekayim-Topic)
-#### [Peace of Soul &nbsp; - &nbsp; Kondor](https://www.youtube.com/watch?v=WN3VHkUFuwU&ab_channel=Kondor-Topic)
-#### [Rain of Love &nbsp; - &nbsp; Blazo](https://www.youtube.com/watch?v=Cfoj4nEWHEE&ab_channel=RobotYoshimis)
-#### [Somewhere in Time &nbsp; - &nbsp; tsunenori a.k.a Marukabis](https://soundcloud.com/tsunenori/somewhere-in-time)
-#### [Traveler Pt.2 &nbsp; - &nbsp; Aosaki](https://www.youtube.com/watch?v=SsC-KIog0og&ab_channel=Aosaki-Topic)
-#### [Under Lake Hamana &nbsp; - &nbsp; Senpai](https://www.youtube.com/watch?v=C94lR2QNNns&ab_channel=MikeHaye)
-
-
-<br /><br /><br /><br /><br />
 # <img height="60px" src="https://img.shields.io/badge/Interest_Book_List-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" />
 <table>
      <tr>
@@ -63,4 +43,23 @@
         <td align="center"><h3><del>인간관계론 &nbsp; - &nbsp; Dale Carnegie</del></td>
     </tr>
 </table> 
- 
+
+
+<br /><br /><br /><br /><br />
+# <img height="60px" src="https://img.shields.io/badge/My_Favorite_Music_List-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" />
+#### [Autumn &nbsp; - &nbsp; Elyon Beats](https://www.youtube.com/watch?v=zR1bwLZXvX8&ab_channel=ElyonBeats-Topic)
+#### [Begin &nbsp; - &nbsp; White Rain](https://www.youtube.com/watch?v=kKpucEMRfbQ&ab_channel=WhiteRain-Topic)
+#### [Children of the Earth &nbsp; - &nbsp; Ayur](https://www.youtube.com/watch?v=7PKDiWU2WHY&ab_channel=loveitrabbit)
+#### [Fall is Falling &nbsp; - &nbsp; DJ Whitesmith](https://www.youtube.com/watch?v=wPhKDM-E8K4&ab_channel=suchagreatname)
+#### [Glittering Sea &nbsp; - &nbsp; Re;plus, Yusuke Shima](https://www.youtube.com/watch?v=SJUF-_qM640&ab_channel=re%3Aplus%C3%97YusukeShima-Topic)
+#### [Horomai Station &nbsp; - &nbsp; tsunenori a.k.a Marukabis](https://www.youtube.com/watch?v=tbbr49lGrHw&ab_channel=Tsunenori)
+#### [Imaginary Kiss &nbsp; - &nbsp; Shirfine](https://www.youtube.com/watch?v=jRQBXmkLVaY&ab_channel=Shirfine-Topic)
+#### [Kankami &nbsp; - &nbsp; Michita](https://www.youtube.com/watch?v=3b326vPOx5I&ab_channel=MICHITA-Topic)
+#### [Long Way Home &nbsp; - &nbsp; Kondor](https://kondormusica.bandcamp.com/track/long-way-home)
+#### [Moon Among Trees &nbsp; - &nbsp; Dennis Kuo](https://www.youtube.com/watch?v=j2TIbi7uNGk&ab_channel=DennisKuo-Topic)
+#### [Nightbloomong &nbsp; - &nbsp; Ekayim](https://www.youtube.com/watch?v=_eeKGVHbjIs&ab_channel=Ekayim-Topic)
+#### [Peace of Soul &nbsp; - &nbsp; Kondor](https://www.youtube.com/watch?v=WN3VHkUFuwU&ab_channel=Kondor-Topic)
+#### [Rain of Love &nbsp; - &nbsp; Blazo](https://www.youtube.com/watch?v=Cfoj4nEWHEE&ab_channel=RobotYoshimis)
+#### [Somewhere in Time &nbsp; - &nbsp; tsunenori a.k.a Marukabis](https://soundcloud.com/tsunenori/somewhere-in-time)
+#### [Traveler Pt.2 &nbsp; - &nbsp; Aosaki](https://www.youtube.com/watch?v=SsC-KIog0og&ab_channel=Aosaki-Topic)
+#### [Under Lake Hamana &nbsp; - &nbsp; Senpai](https://www.youtube.com/watch?v=C94lR2QNNns&ab_channel=MikeHaye)
