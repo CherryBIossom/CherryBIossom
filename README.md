@@ -28,7 +28,7 @@
         <td>
             <img width="68px" height="100px" src="http://image.yes24.com/momo/TopCate1045/MidCate008/104477542.jpg" />
         </td>
-        <td align="center"><h3>Information  &nbsp; - &nbsp;  James Gleick</td>
+        <td align="center"><h3><del>Information  &nbsp; - &nbsp;  James Gleick</del></td>
     </tr>
     <tr>
         <td>
