@@ -37,11 +37,6 @@
         <td align="center"><h3>저글러, 땜장이, 놀이꾼, 디지털 세상을 설계하다  &nbsp; - &nbsp;  Jimmy Soni, Rob Goodman</td>
     </tr>
              <tr>
-        <td>
-            <img width="68px" height="100px" src="https://image.yes24.com/goods/113791226/XL" />
-        </td>
-        <td align="center"><h3><del>인간관계론 &nbsp; - &nbsp; Dale Carnegie</del></td>
-    </tr>
 </table> 
 
 
