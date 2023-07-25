@@ -28,13 +28,13 @@
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/66322614/s" />
         </td>
-        <td align="center"><h3>떨림과 울림  &nbsp; - &nbsp;  Kim sang wook</td>
+        <td align="center"><h3>떨림과 울림  &nbsp; - &nbsp;  김상욱</td>
     </tr>
     <tr>
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/57569808/s" />
         </td>
-        <td align="center"><h3>김상욱의 양자 공부  &nbsp; - &nbsp;  Kim sang wook</td>
+        <td align="center"><h3>김상욱의 양자 공부  &nbsp; - &nbsp;  김상욱</td>
     </tr>
     <tr>
         <td>
