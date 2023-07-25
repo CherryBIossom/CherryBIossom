@@ -6,6 +6,12 @@
         </td>
         <td align="center"><h3>그대들, 어떻게 살 것인가 &nbsp; - &nbsp; Genzaburou Yosino</td>
     </tr>
+             <tr>
+        <td>
+            <img width="68px" height="100px" src="https://image.yes24.com/goods/6111280/XL" />
+        </td>
+        <td align="center"><h3>불안 &nbsp; - &nbsp; Alain de Botton</td>
+    </tr>
     <tr>
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
