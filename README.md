@@ -4,7 +4,7 @@
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/7264453/XL" />
         </td>
-        <td align="center"><h3>그대들, 어떻게 살 것인가 &nbsp; - &nbsp; Genzaburou Yosino</td>
+        <td align="center"><h3><del>그대들, 어떻게 살 것인가 &nbsp; - &nbsp; Genzaburou Yosino</del></td>
     </tr>
       <tr>
         <td>
