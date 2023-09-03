@@ -14,12 +14,6 @@
     </tr>
       <tr>
         <td>
-            <img width="68px" height="100px" src="https://image.yes24.com/goods/97587008/XL" />
-        </td>
-        <td align="center"><h3>천문학자는 별을 보지 않는다 &nbsp; - &nbsp; 심채경</td>
-    </tr>
-    <tr>
-        <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/103752175/s" />
         </td>
         <td align="center"><h3>아인슈타인의 냉장고 &nbsp; - &nbsp; Paul Sen</td>
