@@ -1,5 +1,11 @@
 # <img height="60px" src="https://img.shields.io/badge/Interest_Book_List-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" />
 <table>
+      <tr>
+        <td>
+            <img width="68px" height="100px" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165348472.jpg" />
+        </td>
+        <td align="center"><h3>나 없이는 존재하지 않는 세상 &nbsp; - &nbsp; Carlo Rovelli</td>
+    </tr>
      <tr>
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/7264453/XL" />
@@ -28,7 +34,7 @@
         <td>
             <img width="68px" height="100px" src="https://image.yes24.com/goods/57569808/s" />
         </td>
-        <td align="center"><h3>김상욱의 양자 공부  &nbsp; - &nbsp;  김상욱</td>
+        <td align="center"><h3><del>김상욱의 양자 공부  &nbsp; - &nbsp;  김상욱</del></td>
     </tr>
     <tr>
         <td>
